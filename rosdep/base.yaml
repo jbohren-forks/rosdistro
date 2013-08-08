@@ -1517,6 +1517,10 @@ libswscale-dev:
     portage:
       packages: [media-video/ffmpeg]
   ubuntu: [libswscale-dev]
+libtao-dev:
+  ubuntu: [libtao-dev]
+libtao-orbsvcs-dev:
+  ubuntu: [libtao-orbsvcs-dev]
 libtheora:
   arch: [libtheora]
   debian: [libtheora-dev]
@@ -2121,6 +2125,8 @@ tango-icon-theme:
   opensuse: [tango-icon-theme]
   rhel: [tango-icon-theme]
   ubuntu: [tango-icon-theme]
+tao-idl:
+  ubuntu: [tao-idl]
 tar:
   arch: [libtar]
   debian: [libtar-dev]
