@@ -2127,6 +2127,8 @@ tango-icon-theme:
   ubuntu: [tango-icon-theme]
 tao-idl:
   ubuntu: [tao-idl]
+tao-utils:
+  ubuntu: [tao-utils]
 tar:
   arch: [libtar]
   debian: [libtar-dev]
