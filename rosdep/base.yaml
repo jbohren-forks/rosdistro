@@ -2127,6 +2127,8 @@ tango-icon-theme:
   ubuntu: [tango-icon-theme]
 tao-idl:
   ubuntu: [tao-idl]
+tao-naming:
+  ubuntu: [tao-naming]
 tao-utils:
   ubuntu: [tao-utils]
 tar:
